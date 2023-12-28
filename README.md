@@ -76,7 +76,7 @@ git log
 
 git log命令可以查看以往仓库中提交的日志。包括可以查看什么人在什么时候进行了提交或合并，以及操作前后有怎样的差别。关于合并我们会在后面解说（maybe）
 
-![log_git](C:\Users\86139\Desktop\log_git.png)
+![log_git](https://github.com/fandengboz/PrePre/blob/main/log_git.png)
 
 三、将本地git仓库传入远程仓库（github）
 
@@ -96,7 +96,7 @@ git log命令可以查看以往仓库中提交的日志。包括可以查看什�
 
 （3）ssh-keygen -t rsa -C "自己的邮箱"  // 生成ssh
 
-![Create_ssh](C:\Users\86139\Desktop\Create_ssh.png)
+![Create_ssh](https://github.com/fandengboz/PrePre/blob/main/Create_ssh.png)
 
 2.github配置ssh
 
@@ -106,17 +106,17 @@ github->账户->setting->SSH and GPG keys->new SSH key
 
 将复制的内容填入key中
 
-![github_ssh_02](C:\Users\86139\Desktop\github_ssh_02.png)
+![github_ssh_02](https://github.com/fandengboz/PrePre/blob/main/github_ssh_02.png)
 
 
 
-![github_ssh_03](C:\Users\86139\Desktop\github_ssh_03.png)
+![github_ssh_03](https://github.com/fandengboz/PrePre/blob/main/github_ssh_03.png)
 
 测试ssh链接，输入下面的代码
 
 ssh -T git@github.com
 
-![ssh_connect](C:\Users\86139\Desktop\ssh_connect.png)
+![ssh_connect](https://github.com/fandengboz/PrePre/blob/main/ssh_connect.png)
 
 3.将本地内容上传到github中（建议方法）
 
@@ -128,4 +128,4 @@ ssh -T git@github.com
 
 （4）上传文件
 
-![ssh](C:\Users\86139\Desktop\ssh.png)
+![ssh](https://github.com/fandengboz/PrePre/blob/main/ssh.png)
