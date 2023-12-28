@@ -1,5 +1,3 @@
-# PrePre
-
 # 有关git的相关基础操作（学习）
 
 一、git的安装
@@ -31,20 +29,20 @@ git init
 
 最好创建在你的项目文件夹里面
 
-![Create_git](C:\Users\86139\Desktop\Create_git.png)
+![image](https://github.com/fandengboz/PrePre/blob/main/Create_git.png)
 
 2.查看仓库状态
 
 git status
 
-![Infromation_git](C:\Users\86139\Desktop\Infromation_git.png)
+![Infromation_git](https://github.com/fandengboz/PrePre/blob/main/Infromation_git.png)
 
 3.向暂存区中添加文件
 
 git add
 
 首先你需要在你的项目文件夹里添加你的文件（C，txt，md...）
-![add_git](C:\Users\86139\Desktop\add_git.png)
+![add_git](https://github.com/fandengboz/PrePre/blob/main/add_git.png)
 
 4.保存仓库的历史记录
 
@@ -56,7 +54,7 @@ git commit命令可以将当前暂存区中的文件实际保存到仓库的历 
 
 
 
-![commit_git](C:\Users\86139\Desktop\commit_git.png)
+![commit_git](https://github.com/fandengboz/PrePre/blob/main/commit_git.png)
 
 (2)记述详细提交信息
 
@@ -131,4 +129,3 @@ ssh -T git@github.com
 （4）上传文件
 
 ![ssh](C:\Users\86139\Desktop\ssh.png)
-
